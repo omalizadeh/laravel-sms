@@ -9,6 +9,7 @@ This is a laravel sms package with multi driver support. Supports laravel **v11.
 - [Kavenegar](https://kavenegar.com)
 - [SMS.ir](https://sms.ir)
 - [FarazSMS](https://farazsms.com)
+- [Signal](https://signalads.com)
 
 ## Installation & Configuration
 
